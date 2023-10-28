@@ -26,7 +26,8 @@ print(result)
 ```
 
 ## Output:
-![output](./cr%20soliving%20systm%20of%20linear%20eqn.png)
+![cr soliving systm of linear eqn](https://github.com/saron2006/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/138849343/97eeed50-cf18-4246-ad91-27161acbe141)
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
